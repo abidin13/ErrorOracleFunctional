@@ -1,0 +1,8 @@
+how to cek cost / batch
+pertama jalankan 3 concurrent berikut untuk bulan berjalan
+- GMF Period Close Process for Process Organizations
+- GMF Recreate Batch / Period Layers
+- Actual Cost Process
+
+terakhir jalankan concurrent 
+- GMF Batch Cost Detail

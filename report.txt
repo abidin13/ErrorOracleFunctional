@@ -1,0 +1,13 @@
+name report : GMF Batch Cost Details Report
+Application : Process Manufacturing Financials
+Program	    : GMF Batch Cost Details Report
+shortname   : GMFBCDR
+Description : GMF Batch Cost Details Report
+
+Executable  : XDODTEXE
+Method      : Java Concurent Program
+
+GMFACOST
+GMCACOST
+
+
